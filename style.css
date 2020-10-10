@@ -12,7 +12,10 @@ main {
   }
   
 
+ h1 {
   
+   font-weight:bold;
+   }
 
 body {
   font-family: 'Montserrat', sans-serif;
