@@ -8,8 +8,14 @@ main {
 
 .navbar-brand {
   
-  font-family: 'Sansita Swashed', cursive;
+  
+
   }
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  }
+
 
 .hero-image {
   background-image: url("http://cakebakebeauty.com/images/photostudio_1602346954886.jpg"); /* The image used */
