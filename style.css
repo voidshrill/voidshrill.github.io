@@ -6,6 +6,11 @@ main {
 
 }
 
+.page-name {
+  
+  font-family: 'Sansita Swashed', cursive;
+  }
+
 .hero-image {
   background-image: url("http://cakebakebeauty.com/images/photostudio_1602346954886.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
