@@ -2,12 +2,12 @@
 
 
 main {
-  padding-top: 75px;
+  
 
 }
 
 .hero-image {
-  padding-top: 25px;
+  margin-top: 50px;
   background-image: url("http://cakebakebeauty.com/images/photostudio_1602346954886.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
