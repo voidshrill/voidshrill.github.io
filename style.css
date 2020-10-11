@@ -33,6 +33,10 @@ body {
 
   }
 
+/* Dashed border */
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
 
 .hero-image {
   background-image: url("https://voidshrill.github.io/Images/photostudio_1602346954886.jpg"); /* The image used */
@@ -51,3 +55,15 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
