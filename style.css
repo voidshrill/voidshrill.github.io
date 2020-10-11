@@ -11,6 +11,17 @@ main {
   font-size: 125%;
   }
   
+/* Modify the background color */ 
+          
+        .navbar-custom { 
+            background-color: lightgreen; 
+        } 
+        /* Modify brand and text color */ 
+          
+        .navbar-custom .navbar-brand, 
+        .navbar-custom .navbar-text { 
+            color: green; 
+          }
 
  h1 {
   
