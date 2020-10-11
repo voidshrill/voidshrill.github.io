@@ -44,6 +44,7 @@ hr.dashed {
     background: #000;
 
     opacity: 0.2;
+  margin-top: 0px;
 }
 
 .hero-image {
