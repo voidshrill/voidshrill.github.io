@@ -13,7 +13,7 @@ main {
   
 /* Modify the background color */ 
           
-        .navbar-custom { 
+        .bg-custom { 
             background-color: lightgreen; 
         } 
         /* Modify brand and text color */ 
