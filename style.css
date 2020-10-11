@@ -35,7 +35,7 @@ body {
 
 /* Dashed border */
 hr.dashed {
-  border-top: 3px dashed #bbb;
+  border-top: 1px dashed #D3D3D3;
 }
 
 .hero-image {
