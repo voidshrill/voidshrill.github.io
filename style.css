@@ -11,6 +11,17 @@ main {
   font-size: 125%;
   }
   
+/* Modify the background color */ 
+          
+        .bg-dark { 
+            background-color: #000; 
+        } 
+        /* Modify brand and text color */ 
+          
+        .navbar-custom .navbar-brand, 
+        .navbar-dark .navbar-text { 
+            color: pink; 
+          }
 
  h1 {
   
@@ -22,6 +33,24 @@ body {
 
   }
 
+/* Dashed border */
+hr.dashed {
+  border-top: 0px dashed #D3D3D3;
+    /* width: 90%; */
+
+
+    height: 1px;
+
+    background: #000;
+
+    opacity: 0.2;
+  
+}
+
+.seperate {
+  margin-top: 0;
+  margin-bottom: 0;
+  }
 
 .hero-image {
   background-image: url("https://voidshrill.github.io/Images/photostudio_1602346954886.jpg"); /* The image used */
@@ -40,3 +69,15 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
