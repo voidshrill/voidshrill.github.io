@@ -14,13 +14,13 @@ main {
 /* Modify the background color */ 
           
         .bg-custom { 
-            background-color: #A57D59; 
+            background-color: #000; 
         } 
         /* Modify brand and text color */ 
           
         .navbar-custom .navbar-brand, 
         .navbar-custom .navbar-text { 
-            color: #A57D59; 
+            color: #fff; 
           }
 
  h1 {
