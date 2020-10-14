@@ -3,6 +3,15 @@ body, html {
   height: 100%;
 }
 
+main {
+  padding-top: 25px;
+}
+
+.navbar-brand {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 125%;
+ }
+
 .parallax {
   /* The image used */
   background-image: url("https://voidshrill.github.io/Images/1566661.jpg");
@@ -16,15 +25,9 @@ body, html {
   background-size: cover;
 }
 
-main {
-  padding-top: 25px;
 
-}
 
-.navbar-brand {
-  font-family: 'Rubik Mono One', sans-serif;
-  font-size: 125%;
-  }
+
   
 /* Modify the background color */ 
           
@@ -50,9 +53,8 @@ body {
 
 /* Dashed border */
 hr.dashed {
-  border-top: 0px dashed #D3D3D3;
+  border-top: 1px dashed #D3D3D3;
     /* width: 90%; */
-
 
     height: 1px;
 
