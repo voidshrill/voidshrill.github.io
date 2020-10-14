@@ -53,7 +53,7 @@ body {
 
 /* Dashed border */
 hr.dashed {
-  border-top: 1px dashed #D3D3D3;
+  border-top: 3px dashed #D3D3D3;
     /* width: 90%; */
 
     height: 1px;
